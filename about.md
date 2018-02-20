@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Haqqımızda
 ---
 
 <p class="message">

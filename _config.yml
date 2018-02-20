@@ -2,23 +2,26 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-gems: [jekyll-paginate]
-paginate: 5
+
+plugins: [jekyll-paginate]
 paginate_path: "page:num"
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+title:               Shaǵala Lab blogı
+tagline:             'bagdarlamalastırıw haqqında blog'
+description:         '<a href="http://shagalalab.com">Shaǵala Lab</a> toparınıń bagdarlamalastırıw haqqında blogı'
+url:                 http://shagalalab.github.io
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Shaǵala Lab
+  url:               http://shagalalab.com
+  email:             info@shagalalab.com
 
 # Custom vars
 version:             1.0.0
+
+github:
+  repo:           https://github.com/shagalalab/shagalalab.github.io
